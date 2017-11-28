@@ -20,3 +20,8 @@
 #### Based on the language you are using the code needs to be either Complied then Interpreted or just Interpreted into computer language (Binary) so that it can be exectuted. Most IDE's come with a Compiler or Interpreter built in. 
 ### Executable
 #### All complied languages are in computer language as a package meaning they can be saved as a file in computer language. However interpreted languages are run line by line into computer language rather then as a package and cannot be saved as a computer language file unless they are converted to a seperate language. Computer language files are called executables. 
+
+## Intergrated Development Environmnet (IDE)
+#### An IDE is a development environment that is designed to maximise programmer prouctivity by providing tight-knit components with similar user interfaces. IDE's present a single program in which all development is done. 
+### Common Features
+#### An IDE commonly has an Source Code editor, Build automation tools, Debugger, Intelligent code completiion and Compiling. 
