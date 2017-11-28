@@ -10,3 +10,13 @@
 #### if a debugger is avaliable, it can replace the manual instrumentation using print statements. Setting breakpoints in the program, stepping into and over functions, watching programs expressions, and instpecting the memory contents at selected points during the execution will give all the needed run-time information without generating large, hard to read log files. 
 ### Backtracking
 #### One option is to start from the point where the problem occured and go back through the code to see how that might have happened. 
+
+## From code to execution
+### Language
+#### Before any programming takes place an language need to be chosen to make the program (this can differ depending on what you want the program to do). 
+### Text editor or IDE
+#### Once the language has been chosen an evironemnt of which to program the code is needed. This is down to preference or copatability with the language. Some IDE's do not support all languages however they come with added bonuses which will be discussed in the next step. Text editors can support all languages.
+### Complier or Interpreter
+#### Based on the language you are using the code needs to be either Complied then Interpreted or just Interpreted into computer language (Binary) so that it can be exectuted. Most IDE's come with a Compiler or Interpreter built in. 
+### Executable
+#### All complied languages are in computer language as a package meaning they can be saved as a file in computer language. However interpreted languages are run line by line into computer language rather then as a package and cannot be saved as a computer language file unless they are converted to a seperate language. Computer language files are called executables. 
