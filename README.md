@@ -29,3 +29,12 @@
 #### An IDE is a development environment that is designed to maximise programmer prouctivity by providing tight-knit components with similar user interfaces. IDE's present a single program in which all development is done. 
 ### Common Features
 #### An IDE commonly has an Source Code editor, Build automation tools, Debugger, Intelligent code completiion and Compiling. 
+
+## Text Editor
+#### A text editor is a type of program used for editing plain text files.
+
+## Text Editor VS IDE
+#### A text editor does not have the extra functionality that an IDE has. The text editor purely writes code with no hints or highlights. It also does not include the common features found in IDE's such as a Debugger or Compiler. Once a program has been written in a text editor everything else has to be done seperatly in the process of code to execution. This uses more time and is less functional thus making IDE's preffered.
+
+## Coding standards in teams
+#### Having a coding standard in a team is majorly crutial as it allows for a consice understanding of the code through commenting, a clear format and structure through naming of variables, the positioning of syntax, indentation of blocks and layout of parentheses. All of this allows for the team and the individual to easily read and understand each others work.
