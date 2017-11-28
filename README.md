@@ -10,6 +10,10 @@
 #### if a debugger is avaliable, it can replace the manual instrumentation using print statements. Setting breakpoints in the program, stepping into and over functions, watching programs expressions, and instpecting the memory contents at selected points during the execution will give all the needed run-time information without generating large, hard to read log files. 
 ### Backtracking
 #### One option is to start from the point where the problem occured and go back through the code to see how that might have happened. 
+### Adding security
+#### Debugging allows the creator to analyse the security of the program through testing, typically in log information. 
+### Robustness 
+#### Debugging can add robustness to a program. This can be from something such as user entries; if a user inputs something that the program did not expect or understand it will either crash or throw back an error if it cannot handle it. Iff the program can handle it the incorrect feedback willl be given. This will generally be found in debugging and testing thus improving the reobustness of the program.
 
 ## From code to execution
 ### Language
