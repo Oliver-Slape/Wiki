@@ -14,6 +14,8 @@
 #### Debugging allows the creator to analyse the security of the program through testing, typically in log information. 
 ### Robustness 
 #### Debugging can add robustness to a program. This can be from something such as user entries; if a user inputs something that the program did not expect or understand it will either crash or throw back an error if it cannot handle it. Iff the program can handle it the incorrect feedback willl be given. This will generally be found in debugging and testing thus improving the reobustness of the program.
+### IDE VS Text Editor
+#### Using an IDE adds extra Debugging options as they will generally have intergrated options already included. Depending on the IDE or language used they can have error logs and console outputs to show where and when errors have occured and why it has appeared. Compared to a Text Editor everything has to be done manually. This can be done through Incremental or Instrument Debugging taking more of the users time to implement and use these thus making an IDE much preffered.  
 
 ## From code to execution
 ### Language
