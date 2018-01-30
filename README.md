@@ -30,7 +30,7 @@
 ## Intergrated Development Environmnet (IDE)
 #### An IDE is a development environment that is designed to maximise programmer prouctivity by providing tight-knit components with similar user interfaces. IDE's present a single program in which all development is done. 
 ### Common Features
-#### An IDE commonly has an Source Code editor, Build automation tools, Debugger, Intelligent code completiion and Compiling. 
+#### An IDE commonly has an Source Code editor, Build automation tools, Debugger, Intelligent code completiion and Compiling. The Source Code Editor allows the user to access the base code of the program and all other code linked to the program allowing the user to edit, adapt and check the code. It also allows other feature such as code highlighting, syntax hints and much more. Build automation tools help the user in building the program by doing parts of it for them. This can be changing source code into extecutables through packaging, compiling or linking the code into a usable form. Compiling is a form of Build automation. IDE Debugging we have already touched on and can be seen above in the Debugging section. 
 
 ## Text Editor
 #### A text editor is a type of program used for editing plain text files.
