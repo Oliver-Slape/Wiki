@@ -18,10 +18,12 @@
 #### Using an IDE adds extra Debugging options as they will generally have intergrated options already included. Depending on the IDE or language used they can have error logs and console outputs to show where and when errors have occured and why it has appeared. Compared to a Text Editor everything has to be done manually. This can be done through Incremental or Instrument Debugging taking more of the users time to implement and use these thus making an IDE much preffered.  
 
 ## From code to execution
+### Preperation
+#### Before any of the code can be created there needs to be a clear deffinition of the requirements, this would have been agreed with and delibereated with the client in an intial meeting or over several. 
 ### Language
 #### Before any programming takes place an language need to be chosen to make the program (this can differ depending on what you want the program to do). 
 ### Text editor or IDE
-#### Once the language has been chosen an evironemnt of which to program the code is needed. This is down to preference or copatability with the language. Some IDE's do not support all languages however they come with added bonuses which will be discussed in the next step. Text editors can support all languages.
+#### Once the language has been chosen an evironemnt of which to program the code is needed. This is down to preference or compatability with the language. Some IDE's do not support all languages however they come with added bonuses which will be discussed in the next step. Text editors can support all languages.
 ### Complier or Interpreter
 #### Based on the language you are using the code needs to be either Complied then Interpreted or just Interpreted into computer language (Binary) so that it can be exectuted. Most IDE's come with a Compiler or Interpreter built in. 
 ### Executable
