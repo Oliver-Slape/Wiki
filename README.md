@@ -64,4 +64,4 @@
 #### This will be where the final product is mastered and refined. The testing phase should have created an outcome where the client has had any last inputs and alterations and is happy with the product. The final phase is just making sure everything has been fully looked over and tested. It is also a point where if there is time left of the deadline extra functionality can be added or looked at.
 
 ### Technical Support
-#### After handing over the product the client might want you to have further interaction or you could offer further interaction. This could be from patches and further updates for them. Or they might want you to increase scale or th amount of platforms the product can reach. 
+#### After handing over the product the client might want you to have further interaction or you could offer further interaction. This could be from patches and further updates for them. Or they might want you to increase scale or the amount of platforms the product can reach. 
