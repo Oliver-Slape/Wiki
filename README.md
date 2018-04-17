@@ -42,3 +42,26 @@
 
 ## Coding standards in teams
 #### Having a coding standard in a team is majorly crutial as it allows for a consice understanding of the code through commenting, a clear format and structure through naming of variables, the positioning of syntax, indentation of blocks and layout of parentheses. All of this allows for the team and the individual to easily read and understand each others work.
+
+## Process of building an Application
+
+### Initial Meeting
+#### There will be an initial meeting with the client where aspects of requirements will be deliberated over and defined. The first meeting is to gauge what the client wants and to represent that into requirements and actionable criteria. There will also be a talk about time management and constraints. The client will have an idea of when they want their product and a decision will have to be made about when it is delivered and what can be added in that time. There will also be set time for future meetings and progression. There will have to be decisions made on prices and pay, these can be from resources needed to be acquired to maintenance and future upkeep. 
+
+### Resources
+#### This will be where a decision is made to work alone or in a team. The project might need outside participants or outsourcing components. 
+
+### Design
+#### This will be where the requirements are put into a model of the product. This can be from wireframe diagrams for a website to mock-ups of UIs and game elements. This is essential as it needs to be shown to the client to ensure the proper direction is being taken with the product they want. 
+
+### Development
+#### This is where everything starts to come together. There needs to be a clear plan of targets and deadlines so that there can be a clear projection of if the product will be completed or if there is time to add in extra functionality. 
+
+### Testing
+#### This is a make or break point. In the testing phase there will be a clear indication of whether the deadline will be met for the finished product. This is also where the client can have extra input to see if they are happy with the direction the product is taking or if there needs to be any alterations. This can also be done during and after development.
+
+### Finishing touches
+#### This will be where the final product is mastered and refined. The testing phase should have created an outcome where the client has had any last inputs and alterations and is happy with the product. The final phase is just making sure everything has been fully looked over and tested. It is also a point where if there is time left of the deadline extra functionality can be added or looked at.
+
+## Upkeep
+#### The product may have further upkeep that is required once complete and rolled out. This could be error handling and updates or adding extra packages the client wants such as DLCs in games.  
